@@ -7,7 +7,7 @@ on:
       - master
 
 env:
-  DATABRICKS_HOST: https://adb-4181970831265458.18.azuredatabricks.net/
+  DATABRICKS_HOST: https://adb-3387107885099545.5.azuredatabricks.net/
   PYTHON_VERSION: '3.9'
 
 jobs:
